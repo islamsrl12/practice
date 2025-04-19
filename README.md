@@ -4,8 +4,8 @@
 this time i am learning github for my experience 
 
 <br> cd for change directory or folder or we can go to file
-<br> li :- for all the files in a folder
-<br> li -a : checks all the file in the directory including hidden file 
+<br> ls :- for all the files in a folder
+<br> ls -a : checks all the file in the directory including hidden file 
 <br> git status :- if any difference btn github and local machine . basically if any file is not commit to githib
 
 <br> various file
@@ -19,4 +19,4 @@ this time i am learning github for my experience
 
 <br> git commit -m"any commend" :- to make final change in the directory 
 
-<br> git
+<br> git push origin main
